@@ -1,4 +1,5 @@
 # Classification of Burger, Dimsum, Ramen, and Sushi
+A contest in 261458 Computer Vision course, academic year 2022
 
 ## Briefing
 [Full Briefing](https://docs.google.com/document/d/1_R1KGHAHhEj_j2zHhaABd3RkwZW1gcdDa5bgx1xf9rI/edit)
